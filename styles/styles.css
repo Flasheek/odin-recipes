@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p {
+    margin-left: 5%;
+}
+
+.description {
+    text-align: justify;
+}
+
+.list-header {
+    font-weight: bold;
+    color: hsl(40, 90%, 30%)
+}
+
+.link {
+    font-weight: 900;
+}
+
+.img-recipe-header {
+    width: 500px;
+    height: auto;
+    max-width: 100%;
+    background-color: hsl(280, 80%, 30%);
+}
