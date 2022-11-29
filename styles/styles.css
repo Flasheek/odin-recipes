@@ -2,6 +2,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#links-list {
+    background-color: hsl(280, 80%, 80%);
+    border-radius: 10px;
+    text-align: center;
+    line-height: 1.5;
+}
+
 h1 {
     text-align: center;
 }
